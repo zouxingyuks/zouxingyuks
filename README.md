@@ -1,7 +1,6 @@
 ### Github Overview
-<img align="left" alt="TamimEhsan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zouxingyuks&show_icons=true" />    &nbsp;
+<img align="left" alt="ZouXingyu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zouxingyuks&include_all_commits=true" />    &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zouxingyuks)](https://github.com/anuraghazra/github-readme-stats) 
-
 ### 🛠 Tech Stack
 
 - 💻 &#160; ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go&logoColor=007396)
