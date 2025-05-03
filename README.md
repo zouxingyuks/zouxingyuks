@@ -1,5 +1,5 @@
 ### Github Overview
-<img align="left" alt="ZouXingyu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zouxingyuks&include_all_commits=true" />    &nbsp;
+<img align="left" alt="ZouXingyu's Github Stats" src="https://github-immortality.vercel.app/api?username=zouxingyuks&include_all_commits=true" />    &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zouxingyuks)](https://github.com/anuraghazra/github-readme-stats) 
 ### 🛠 Tech Stack
 
